@@ -1,0 +1,17 @@
+
+		Total de Viaturas:1		Distancia percorrida(kms):0
+
+		Requisicoes de viaturas:0		Total de carregamentos:0
+
+
+Viatura num 1
+Identidade: 313
+Designacao: 1000
+Estado: 1
+Carga da bateria: 100.00 por cento
+distancia percorrida: 1 kms
+Custo de carregamento: 0.00 euros
+vezes requisitada: 0
+Data de ultima requisicao: Nao tem data de ultima requisicao
+
+ -------------------------------------------------------------------------------------
